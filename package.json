@@ -1,0 +1,24 @@
+{
+  "name": "eli-martinez-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lta4/eli-martinez-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lta4/eli-martinez-api/issues"
+  },
+  "homepage": "https://github.com/lta4/eli-martinez-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.6.1"
+  }
+}
